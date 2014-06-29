@@ -18,7 +18,7 @@ OpenStreetMap was improving in data coverage and quality. And a few companies
 started producing their own alternatives to OpenLayers. It was the perfect
 environment for the Leaflet.js library. Its initial selling points were that it
 was small, open source, and mobile-friendly. Cloudmade (then a major OpenStreetMap
-user) promoted Leaflet, and many developers welcomed the change.
+user) was moving to Leaflet, and many developers welcomed the change.
 
 Even though Derek and I had never worked for the same organization or on the same project,
 we had worked in a field where open maps were important and no one wanted to reinvent
