@@ -36,10 +36,10 @@ around your lawn and wasting time retracing his steps.
 
     "Go back and forth in narrow lines."
 
-The bag becomes full. The gas tank becomes empty.
+The bag becomes full. The gas tank becomes empty. Each time you explain how to
+solve this problem and resume working.
 
-Each time you explain how to
-solve this problem and resume working. By the end of the day, you have written
+By the end of the day, you have written
 a whole lawn-mowing program. But **you already had developed this program for
 yourself**. Professional programmers are good at translating our human
 instructions into computer instructions. They also can create new ideas and

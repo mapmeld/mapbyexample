@@ -1,16 +1,15 @@
 {
   "title": "Map by Example",
-  "description": "interactive mapping in JavaScript and product development",
-  "github": "mapmeld/mapthatshit",
+  "description": "Interactive mapping and product development",
+  "github": "mapmeld/mapbyexample",
   "links": {
-    "home": "http://mapmeld.github.io/mapbyexample",
-    "about": "http://mapmeld.github.io/mapbyexample/about",
+    "about": "https://github.com/mapmeld/mapbyexample/blob/master/about.md",
     "issues": "https://github.com/mapmeld/mapbyexample/issues",
-    "contribute": "http://mapmeld.github.io/mapbyexample/about",
+    "contribute": "https://github.com/mapmeld/mapbyexample",
     "sharing": {
-      "google": null,
-      "facebook": "http://mapmeld.github.io/mapbyexample",
-      "twitter": "http://mapmeld.github.io/mapbyexample"
+      "google": "http://mapmeld.gitbooks.io/map-by-example/",
+      "facebook": "http://mapmeld.gitbooks.io/map-by-example/",
+      "twitter": "http://mapmeld.gitbooks.io/map-by-example/"
     }
   }
 }
