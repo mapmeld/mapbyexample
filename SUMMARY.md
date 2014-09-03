@@ -60,6 +60,7 @@
     * [OSM Buildings](section-5/chapter-1/buildings.md)
     * [CrayonMap](section-5/chapter-1/crayon.md)
     * [TileStache](section-5/chapter-1/tilestache.md)
+    * [Paint in WebGL](section-5/chapter-1/mapboxgl.md)
   * [Custom Languages](section-5/chapter-2/README.md)
   * [Open Hardware](section-5/chapter-3/README.md)
   * [Act and Art](section-5/chapter-4/README.md)
